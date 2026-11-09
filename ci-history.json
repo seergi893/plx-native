@@ -1,0 +1,9 @@
+{"updated":"2026-11-09T07:43:52Z",
+"ci":[],
+"sim":[
+{"id":42580961603,"at":"2026-11-09T07:41:57Z","sha":"8e486d1a2","title":"Settings > Video & playback > Playback engine: a per-profile opt-in to the URI engine","pr":1279,"conclusion":"failure","attempt":1,"jobs":{"Windows launcher syntax":21},"failed":["Linux simulator build + launch","macOS simulator build + launch","macOS tests against bundled FFmpeg and ASS"]}
+],
+"nightly":[],
+"cancelled":{},
+"daily":[],
+"flaky":[]}
