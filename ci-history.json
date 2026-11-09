@@ -1,5 +1,7 @@
-{"updated":"2026-11-09T07:43:52Z",
-"ci":[],
+{"updated":"2026-11-09T07:48:33Z",
+"ci":[
+{"id":42580961599,"at":"2026-11-09T07:41:57Z","sha":"8e486d1a2","title":"Settings > Video & playback > Playback engine: a per-profile opt-in to the URI engine","pr":1279,"conclusion":"failure","attempt":1,"jobs":{"which gates apply":6,"host harness tests":368,"host python/shell/C gates":177},"failed":["armv7 cross-build and artifact assertions","cross-build (armv7) + artifact assertions","host checks (NOT a device gate)","host lint + type-checks","host unit tests (default features)","host unit tests (hostsim)"]}
+],
 "sim":[
 {"id":42580961603,"at":"2026-11-09T07:41:57Z","sha":"8e486d1a2","title":"Settings > Video & playback > Playback engine: a per-profile opt-in to the URI engine","pr":1279,"conclusion":"failure","attempt":1,"jobs":{"Windows launcher syntax":21},"failed":["Linux simulator build + launch","macOS simulator build + launch","macOS tests against bundled FFmpeg and ASS"]}
 ],
